@@ -22,7 +22,7 @@
 # num = 10
 # fraction = 5/100
 # print(f'{num*fraction} is {fraction*100}% of {num:,}')
-# print(f'{num-fraction} is {num} stocazzo!')
+# print(f'{num-fraction} is {num} no!')
 
 # name = input('Enter your name: ')
 # print('Are you really', name,'?')
@@ -1481,4 +1481,5 @@ print(animals)
 print(animals.items())
 print(list(animals.items()))
 # Modifying list with list comprehension
+
 print([{'letter': key, 'name': value} for key, value in animals.items()])
