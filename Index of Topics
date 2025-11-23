@@ -28,4 +28,54 @@ Lists
 	Looping over Lists
 	Deciding with Lists
 List Operations
-	
+	Finding Extreme Data
+	Sorting Data
+	Summing Data
+	Joining Lists
+	Counting Elements
+String Operations
+	Splitting Strings
+	Updating Strings
+Functions
+	Reusing Code with Functions
+	Creating Parameters
+	Returning Values
+	Using Multiple Parameters
+	Understanding Functions
+	Functions and Variable Scope
+	Deciding with Functions
+	Functions with Lists
+	Functions with Loops
+Tuples, Dictionaries, & Sets
+	Creating Tuples
+	Tuples and Lists
+	Returning Tuples
+	Creating Dictionaries
+	Using Dictionaries
+	Creating Sets
+	Using Sets
+	Sets and Lists
+	Set Operations
+List Comprehensions
+	Using List Comprehensions
+	Functions as Expressions
+	Filtering With If Statements
+	Negative Indexing and Deletion
+	Slice Notation
+Classes
+	Using Classes
+	Creating Instances
+	Classes with Methods
+	Constructors
+	Understanding Classes
+Object-Oriented Programming
+	Encapsulating Objects
+	Applying Inheritance in OOP
+	Abstracting Objects
+	Polymorphic Objects
+	Object-Oriented Programming
+Modules
+	Modules
+Errors & Exceptions
+	Errors and Exceptions
+	Raising Exceptions
